@@ -19,12 +19,7 @@ class MailController extends Controller
 			$msj->from($emailAddressFrom,$nombreApellidoFrom);		
     		$msj->to('info@voluntariossf.org.ar');
 			$msj->replyTo($emailAddressFrom);
-    	});		
-
-		//if($isOkMail)
-		//	$res = 'Tu mensaje fue enviado, gracias por contactarte!';
-		//else
-			//$res= 'Se produjo un error. Imntente mas tarde.';
+    	});			
 
 		if(Mail::failures())
 		   return response()->json(['mensaje' => 'Se produjo un error. Imntente mas tarde.']);

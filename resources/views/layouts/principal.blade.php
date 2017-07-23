@@ -104,7 +104,7 @@
                     <div class="col-sm-12">
                         <ul class="main-menu">
                             <li>{{link_to_action('FrontController@index',$title='Inicio')}}</li>
-                             <li>{{link_to_action('FrontController@conocenos',$title='Conocenos')}}</li>
+                            <li>{{link_to_action('FrontController@conocenos',$title='Conocenos')}}</li>
                             <li>{{link_to_action('ProyectosController@index',$title='Proyectos')}}</li>
                             <li>{{link_to_action('FrontController@dona',$title='Dona')}}</li>                      
                             <li>{{link_to_action('EventosController@index',$title='Próximos Eventos')}}</li>                           

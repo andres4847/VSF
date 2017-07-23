@@ -36,12 +36,12 @@ Primary use:	Charity, Nonprofit and Fundraising
 /*----------------------------------------------------------------*/
 
 @charset "utf-8";
+
 /*
 @font-face {
-  font-family: "Dolce Vita";
-  src: url(../fonts/Dolce Vita.otf), 
-       url(fuentes/Dolce Vita.eot) format('embedded-opentype') , 
-       url(fuentes/Dolce Vita.ttf) format('truetype'); 
+  font-family: "BebasNeue";
+  src: url(../fonts/BebasNeuea.otf),     
+       url(../fonts/BebasNeue.ttf) format('truetype'); 
 }*/
 
 @font-face {

@@ -94,7 +94,14 @@
         <div class="container cta-inner">
             <div class="row">
                 <div class="col-md-6">
-                    <p class="classPvideo">En Voluntarios Sin Fronteras creemos que todo chico tiene derecho a REIR, JUGAR, APRENDER, COMPARTIR, CONOCER, CRECER, EXPRESARSE, DIVERTIRSE, SOÑAR. Acompañanos para que estos deseos se cumplan.</p>
+                    <p class="classPvideo">En VSF nos regimos bajo este nuevo lema:</br>
+                        JUGAR - APRENDER - CONSTRUIR </br> Mediante el juego entramos al
+                         mundo de los niñxs, permitiendonos ser parte de
+                          su aprendizaje diario y ellos del nuestro. 
+                          Jugando y aprendiendo podemos construir la realidad que nos
+                           rodea, no solo los niños, sino los voluntarios que participan
+                            en este proceso.
+                    </p>
                     <span class="line-seperator"></span>
                     <p class="text-2">Mira el video y enterate más</p>
                     <!-- <p>Se parte del equipo participando de nuestros proyectos. Anotate llenando el formulario y participá de nuestra próxima charla informativa</p> -->

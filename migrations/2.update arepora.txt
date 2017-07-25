@@ -1,0 +1,1 @@
+UPDATE `vsf`.`proyectos` SET `general`='<ul><li>Ubicación: Villa 31</li>\n<li>Día y Horario: sábados de 15:00 a 17:00 h.</li>\n<li>Lugar de encuentro de l@s voluntari@s: Puente 5, estación de Ómnibus, Retiro.</li>\n<li>Meses en que funciona: marzo a diciembre.</li></ul>\n' WHERE `id`='11';

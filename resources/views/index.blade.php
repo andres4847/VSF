@@ -23,8 +23,11 @@
                         <a href="/dona">                              
                             <img src="plugins/wowslider/data0/images/6.png" alt="" title="" id="wows0_3" />
                         </a> 
-
-                       
+                    </li>
+                    <li>
+                         <a href="/proyectos/11">                              
+                            <img src="plugins/wowslider/data0/images/7.png" alt="" title="" id="wows0_3" />
+                        </a> 
                     </li>
                 </ul>
             </div>
@@ -34,6 +37,7 @@
                     <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/5.png" alt=""/>2</span></a>
                     <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/4.jpg" alt=""/>3</span></a>
                     <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/6.png" alt=""/>4</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/7.png" alt=""/>5</span></a>
                 </div>
             </div>
            <!-- <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslider.com</a> by WOWSlider.com v8.7</div>
@@ -76,7 +80,7 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <h4 class="custom">TU DONACION TRANSFORMA</h4>
+                            <h4 class="custom">TU DONACIÓN TRANSFORMA</h4>
                             <span class="line-seperator">  </span>
                             <p>Podes realizar una donación por única vez o todos los meses. Con tu dinero estarás ayudando a transformar realidades.</p>
                         </div>
@@ -96,14 +100,14 @@
                 <div class="col-md-6">
                     <p class="classPvideo">En VSF nos regimos bajo este nuevo lema:</br>
                         JUGAR - APRENDER - CONSTRUIR </br> Mediante el juego entramos al
-                         mundo de los niñxs, permitiendonos ser parte de
+                         mundo de los niñ@s, permitiendonos ser parte de
                           su aprendizaje diario y ellos del nuestro. 
                           Jugando y aprendiendo podemos construir la realidad que nos
-                           rodea, no solo los niños, sino los voluntarios que participan
+                           rodea, no solo los niñ@s, sino los voluntari@s que participan
                             en este proceso.
                     </p>
                     <span class="line-seperator"></span>
-                    <p class="text-2">Mira el video y enterate más</p>
+                    <p class="text-2">¡Mira el video y conocenos!</p>
                     <!-- <p>Se parte del equipo participando de nuestros proyectos. Anotate llenando el formulario y participá de nuestra próxima charla informativa</p> -->
                     <a href="/contacto" class="btn btn-accent">Súmate</a>
                 </div>
@@ -122,7 +126,7 @@
         <div class="container">
             <div class="row section-header">
                 <div class="col-sm-12">
-                    <h3>Porque hacemos lo que hacemos</h3>
+                    <h3>Por qué hacemos lo que hacemos</h3>
                     <span class="line-seperator"></span>
                     <!--<p>se puede agregar texto</p> -->
                 </div>

@@ -1,6 +1,6 @@
 <aside class="sidebar">
     <div class="widget">
-        <h4 class="widget-title">Ultimos Posts</h4>
+        <h4 class="widget-title">Últimos Posts</h4>
         <ul class="popular-posts">
             @foreach($LastPostBlog as $blog)
                 <li class="blog-post clearfix">

@@ -1,8 +1,8 @@
 @extends('layouts.principal')
 
 @section('content')
-
-    @include('layouts.partial.titulo', ['titulo' => 'Nuestros Proyectos']) 
+     
+    @include('layouts.partial.titulo', ['titulo' => $proyecto->titulo]) 
 
     <section>
         <div class="container">

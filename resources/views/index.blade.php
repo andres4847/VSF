@@ -14,19 +14,25 @@
                     <li>
                         <img src="plugins/wowslider/data0/images/1.jpg" alt="Voluntarios Sin Fronteras" title="" id="wows0_0" />
                     </li>
-                    <li>
-                        <img src="plugins/wowslider/data0/images/5.png" alt="" title="" id="wows0_1" />
+                    <li> <!-- idiomas -->
+                       <a href="https://www.facebook.com/Idiomas-Sin-Fronteras-289967061035519/" target="_blank">
+                           <img src="plugins/wowslider/data0/images/4.jpg" alt="idiomas" title="" id="wows0_1" />
+                       </a>
                     </li>
+                    <!-- cultivando raices
                     <li>
-                        <img src="plugins/wowslider/data0/images/4.jpg" alt="bootstrap carousel" title="" id="wows0_2" />
-                    <li>
+                        <a href="/proyectos/12">    
+                             <img src="plugins/wowslider/data0/images/5.jpg" alt="" title="" id="wows0_2" />
+                         </a>
+                    </li> -->
+                    <li> 
                         <a href="/dona">                              
-                            <img src="plugins/wowslider/data0/images/6.png" alt="" title="" id="wows0_3" />
+                            <img src="plugins/wowslider/data0/images/6.jpg" alt="dona" title="" id="wows0_2" />
                         </a> 
                     </li>
                     <li>
                          <a href="/proyectos/11">                              
-                            <img src="plugins/wowslider/data0/images/7.png" alt="" title="" id="wows0_3" />
+                            <img src="plugins/wowslider/data0/images/7.jpg" alt="arepora" title="" id="wows0_3" />
                         </a> 
                     </li>
                 </ul>
@@ -34,10 +40,10 @@
             <div class="ws_bullets">
                 <div>
                     <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/1.jpg" alt="Voluntarios Sin Fronteras"/>1</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/5.png" alt=""/>2</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/4.jpg" alt=""/>3</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/6.png" alt=""/>4</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/7.png" alt=""/>5</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/4.jpg" alt=""/>2</span></a>
+                   <!-- <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/5.jpg" alt=""/>2</span></a> -->                  
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/6.jpg" alt=""/>3</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/7.jpg" alt=""/>4</span></a>
                 </div>
             </div>
            <!-- <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslider.com</a> by WOWSlider.com v8.7</div>
@@ -101,13 +107,13 @@
                     <p class="classPvideo">En VSF nos regimos bajo este nuevo lema:</br>
                         JUGAR - APRENDER - CONSTRUIR </br> Mediante el juego entramos al
                          mundo de los niñ@s, permitiendonos ser parte de
-                          su aprendizaje diario y ellos del nuestro. 
+                          su aprendizaje diario y ell@s del nuestro. 
                           Jugando y aprendiendo podemos construir la realidad que nos
                            rodea, no solo los niñ@s, sino los voluntari@s que participan
                             en este proceso.
                     </p>
                     <span class="line-seperator"></span>
-                    <p class="text-2">¡Mira el video y conocenos!</p>
+                    <p class="text-2">¡Mirá el video y conocenos!</p>
                     <!-- <p>Se parte del equipo participando de nuestros proyectos. Anotate llenando el formulario y participá de nuestra próxima charla informativa</p> -->
                     <a href="/contacto" class="btn btn-accent">Súmate</a>
                 </div>

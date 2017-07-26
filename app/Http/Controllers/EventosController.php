@@ -29,6 +29,7 @@ class EventosController extends Controller
     public function eventosall(Request $request)
     {  
         $eventos = DB::table('eventos')
+                  ->orderBy('fechaEvento','desc')
                   ->paginate(5);     
 
         return view("eventos-list", compact('eventos'));         

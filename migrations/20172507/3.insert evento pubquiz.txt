@@ -1,0 +1,1 @@
+INSERT INTO `vsf`.`eventos` (`titulo`, `descripcion`, `direccion`, `link`, `fechaEvento`, `hora`) VALUES ('PUBQUIZ VSF #5', 'Noche de Juegos - Divertite mientras colaboras con VSF.', 'Malabia 1064, Palermo', 'https://www.facebook.com/events/119610675330453/', '2017-07-27', '20:00');

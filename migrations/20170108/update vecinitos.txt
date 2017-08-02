@@ -1,0 +1,1 @@
+UPDATE `vsf`.`proyectos` SET `idTipoProyecto`='1' WHERE `id`='2';

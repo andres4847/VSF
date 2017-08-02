@@ -1,0 +1,1 @@
+DELETE FROM `vsf`.`tipoproyectos` WHERE `id`='4';

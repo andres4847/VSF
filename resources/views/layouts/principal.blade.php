@@ -106,7 +106,7 @@
                             <li>{{link_to_action('FrontController@index',$title='Inicio')}}</li>
                             <li>{{link_to_action('FrontController@conocenos',$title='Conocenos')}}</li>
                             <li>{{link_to_action('ProyectosController@index',$title='Proyectos')}}</li>
-                            <li>{{link_to_action('FrontController@dona',$title='Dona')}}</li>                      
+                            <li>{{link_to_action('FrontController@dona',$title='Doná')}}</li>                      
                             <li>{{link_to_action('EventosController@index',$title='Próximos Eventos')}}</li>                           
                             <li>{{link_to_action('BlogController@index',$title='Blog')}}</li>
                             <li>{{link_to_action('FrontController@contacto',$title='Contactanos')}}</li>

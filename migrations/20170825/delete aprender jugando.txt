@@ -1,0 +1,1 @@
+DELETE FROM `proyectos` WHERE `id`='4';

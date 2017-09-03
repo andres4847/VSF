@@ -21,7 +21,7 @@
                                 <img src="images/dona/comi_1.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-076a86dc-f7d5-4adb-9799-0202a31ebf40" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-076a86dc-f7d5-4adb-9799-0202a31ebf40" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@
                                 <img src="images/dona/comi_2.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-e8b377ba-1aa6-4818-8f37-4820977ac0e1" name="MP-payButton"  class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-e8b377ba-1aa6-4818-8f37-4820977ac0e1" name="MP-payButton"  class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -70,7 +70,7 @@
                                 <img src="images/dona/comi_3.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-fce69d18-0d0b-4f95-8063-86f1f6932f91" name="MP-payButton"  class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-fce69d18-0d0b-4f95-8063-86f1f6932f91" name="MP-payButton"  class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@
                                 <img src="images/dona/edu_1.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-8d9f3a50-81df-435d-88ad-dae1753021ef" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-8d9f3a50-81df-435d-88ad-dae1753021ef" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@
                                 <img src="images/dona/edu_2.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-5f89f045-ad42-408b-9518-4edaaa5a56d7" data-toggle="modal" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-5f89f045-ad42-408b-9518-4edaaa5a56d7" data-toggle="modal" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -152,7 +152,7 @@
                                 <img src="images/dona/edu_3.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-c0f4fdc2-177c-4b8e-8dec-f70d4e65662e" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-c0f4fdc2-177c-4b8e-8dec-f70d4e65662e" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -186,7 +186,7 @@
                                 <img src="images/dona/depo_1.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-0a12adc2-9f02-4eda-b67f-10979aa6d640" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-0a12adc2-9f02-4eda-b67f-10979aa6d640" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -211,7 +211,7 @@
                                 <img src="images/dona/depo_3.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-ef3e77a4-732a-4f16-9080-5140783921e8" data-toggle="modal" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-ef3e77a4-732a-4f16-9080-5140783921e8" data-toggle="modal" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>
@@ -234,7 +234,7 @@
                                 <img src="images/dona/depo_2.png" alt="">
                                 <div class="hover">
                                     <div class="inner">
-                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-5359267b-232d-4179-9f48-54c6e8d89669" name="MP-payButton" class="btn btn-accent">Dona Ahora</a>
+                                        <a href="https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-5359267b-232d-4179-9f48-54c6e8d89669" name="MP-payButton" class="btn btn-accent">Doná Ahora</a>
                                     </div>
                                 </div>
                             </div>

@@ -81,7 +81,7 @@
                             <img class="img-responsive" src="images/home/dona.png">
                             <div class="hover">
                                 <div class="inner">
-                                    <a href="/dona" class="btn btn-accent">Dona</a>
+                                    <a href="/dona" class="btn btn-accent">Doná</a>
                                 </div>
                             </div>
                         </div>
@@ -225,7 +225,10 @@
                 <div class="col-md-8">
                     <h3>IDIOMAS SIN FRONTERAS</h3>
                     <span class="line-seperator"></span>
-                    <p class="text-2">Voluntarios Sin Fronteras apoya la iniciativa “IDIOMAS SIN FRONTERAS” la cuál, propone cursos de idiomas: español para extranjeros, inglés, portugués, francés e italiano, con profesores nativos.</p>
+                    <p class="text-2">Voluntarios Sin Fronteras apoya la iniciativa
+                     “IDIOMAS SIN FRONTERAS” la cual propone
+                     cursos de idiomas ¡con profesores nativos!: español para extranjeros, 
+                     inglés, portugués, francés e italiano. ¡Inscribite acá!.</p>
                     <a href="/contacto" class="btn btn-accent">Inscribite</a>
                 </div>
                 <div class="col-md-4">

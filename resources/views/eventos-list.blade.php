@@ -13,7 +13,7 @@
                             <div class="event-content">
                                 <h3><a target="_blank" href="{{$evento->link}}">{{$evento->titulo}}</a></h3> 
                                 <span class="line-seperator"></span>
-                                <p>{{$evento->descripcion}}</p>
+                                <p>{!!$evento->descripcion!!}</p>
                             </div>
                         </div> 
                 </div>

@@ -14,11 +14,17 @@
                     <li>
                         <img src="plugins/wowslider/data0/images/1.jpg" alt="Voluntarios Sin Fronteras" title="" id="wows0_0" />
                     </li>
+                    <!-- Fiesta sin Fronteras -->
+                    <li>
+                        <a href="https://www.facebook.com/events/900142993492356/" target="_blank">    
+                             <img src="plugins/wowslider/data0/images/3.jpg" alt="Fiesta Sin Fronteras" title="" id="wows0_1" />
+                         </a>
+                    </li> 
                     <li> <!-- idiomas -->
                        <a href="https://www.facebook.com/Idiomas-Sin-Fronteras-289967061035519/" target="_blank">
-                           <img src="plugins/wowslider/data0/images/4.jpg" alt="idiomas" title="" id="wows0_1" />
+                           <img src="plugins/wowslider/data0/images/4.jpg" alt="idiomas" title="" id="wows0_2" />
                        </a>
-                    </li>
+                    </li>            
                     <!-- cultivando raices -->
                     <li>
                         <a href="/proyectos/12">    
@@ -40,10 +46,11 @@
             <div class="ws_bullets">
                 <div>
                     <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/1.jpg" alt="Voluntarios Sin Fronteras"/>1</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/4.jpg" alt=""/>2</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/5.jpg" alt=""/>3</span></a>                   
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/6.jpg" alt=""/>4</span></a>
-                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/7.jpg" alt=""/>5</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/3.jpg" alt=""/>2</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/4.jpg" alt=""/>3</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/5.jpg" alt=""/>4</span></a>                   
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/6.jpg" alt=""/>5</span></a>
+                    <a href="#" title=""><span><img src="plugins/wowslider/data0/tooltips/7.jpg" alt=""/>6</span></a>
                 </div>
             </div>
            <!-- <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.com">wowslider.com</a> by WOWSlider.com v8.7</div>

@@ -1,0 +1,1 @@
+UPDATE `eventos` SET `descripcion`='Pizza party - Postre a elección - Bandas en vivo - DJ - Barra económica |  <a mp-mode=\"dftl\" href=\"https://www.mercadopago.com/mla/checkout/start?pref_id=114402923-442f1ed3-331a-4c87-8c9d-4b3c4dab7cc2\"  name=\"MP-payButton\">   ¡Anticipadas acá!</a>' WHERE `id`='5';

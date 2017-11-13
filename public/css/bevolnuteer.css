@@ -2208,6 +2208,9 @@ textarea {
 .causes .cause-post {
   text-align: center;
 }
+.cause-thumb {
+    margin: 30px;
+}
 .last-causes .cause-post .cause-thumb,
 .causes .cause-post .cause-thumb {
   position: relative;

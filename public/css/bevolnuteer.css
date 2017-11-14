@@ -45,8 +45,8 @@ Primary use:	Charity, Nonprofit and Fundraising
 }*/
 
 @font-face {
-  font-family: "Dolce Vita Heavy Bold";
-  src: url(../fonts/DolceVitaHeavyBold.ttf) format('truetype'); 
+  font-family: "Bebas Neue";
+  src: url(../fonts/BebasNeue.ttf) format('truetype'); 
 }
 
 /* latin */
@@ -85,7 +85,8 @@ h6,
 ul.event-small li .date span:last-of-type,
 ul.event-small li .event-content a.event-title,
 .mean-container .mean-nav ul li a {
-  font-family: 'Dolce Vita Heavy Bold', sans-serif;
+  font-family: 'Bebas Neue', sans-serif;
+
 }
 .vertical-align {
   position: relative;
@@ -98,7 +99,7 @@ ul.event-small li .event-content a.event-title,
 body {
   background: #ffffff;
   color: #777777;
-  line-height: 24px;
+  /* line-height: 24px; */
   overflow-x: hidden;
 }
 body.boxed-version {
@@ -428,11 +429,11 @@ ul.header-list a {
   }
 }
 .site-footer .widget h4.widget-title {
-  font-size: 13px;
+  font-size: 17px;
   color: #fff;
 }
 .site-footer .widget h3.widget-title {
-  font-size: 24px;
+  font-size: 28px;
   color: #fff;
 }
 .site-footer .widget .line-seperator {
@@ -455,7 +456,7 @@ ul.header-list a {
 .site-footer .copyright {
   background: #336699;
   text-transform: uppercase;
-  font-size: 11px;
+  font-size: 12px;
   margin-top: 40px;
 }
 .site-footer .copyright .copyright-text {
@@ -498,7 +499,7 @@ ul.header-list a {
   padding-left: 15px;
 }
 .services .service-post .service-content h5 {
-  font-size: 13px;
+  font-size: 17px;
   margin: 0;
 }
 .services .service-post .service-content .line-seperator {
@@ -595,7 +596,7 @@ ul.header-list a {
 }
 .volunteer-post .v-content h4 {
   margin: 0 0 5px 0;
-  font-size: 13px;
+  font-size: 17px;
 }
 .volunteer-post .v-content span.role {
   color: #aaaaaa;
@@ -652,17 +653,17 @@ ul.header-list a {
 }
 /*----------------------------------------------------------------*/
 h2.error-title {
-  font-size: 100px;
+  font-size: 104px;
   margin: 0 0 10px 0;
 }
 h3.error-title {
-  font-size: 80px;
+  font-size: 84px;
   /*margin: 0 0 10px 0;*/
   margin-top: 25px;
   font-family: 'Montserrat', sans-serif;
 }
 h5.error-subtitle {
-  font-size: 24px;
+  font-size: 28px;
   margin-bottom: 25px;
 }
 .error-page p {
@@ -780,7 +781,7 @@ h5.error-subtitle {
 }
 .gallery-post .g-thumb .overlay h4 {
   margin: 0 0 0 20px;
-  font-size: 14px;
+  font-size: 18px;
   color: #fff;
   -webkit-transform: translate3d(0, 0, 0);
   -moz-transform: translate3d(0, 0, 0);
@@ -912,7 +913,7 @@ h5.error-subtitle {
 }
 .blog-footer .blog-tags h6 {
   margin-right: 10px;
-  font-size: 11px;
+  font-size: 15px;
   display: inline-block;
 }
 .blog-footer .blog-tags a {
@@ -930,7 +931,7 @@ h5.error-subtitle {
 }
 .blog-footer .blog-share h6 {
   margin-right: 5px;
-  font-size: 11px;
+  font-size: 15px;
   display: inline-block;
 }
 .blog-footer .blog-share a {
@@ -994,7 +995,7 @@ h5.error-subtitle {
 .comment .comment-author h5 {
   display: inline-block;
   margin: 0 10px 0 0;
-  font-size: 13px;
+  font-size: 17px;
 }
 .comment .comment-author h5 a {
   color: #222222;
@@ -1043,7 +1044,7 @@ h5.error-subtitle {
   color: #aaaaaa;
 }
 .latest-news .blog-post .blog-content h4 {
-  font-size: 14px;
+  font-size: 18px;
 }
 .latest-news .blog-post .blog-content h4 a {
   color: #222222;
@@ -1070,7 +1071,7 @@ h5.error-subtitle {
   display: block;
 }
 .sidebar .widget h4.widget-title {
-  font-size: 11px;
+  font-size: 15px;
   letter-spacing: 1px;
   padding: 15px 20px;
   margin-bottom: 20px;
@@ -1149,7 +1150,7 @@ h5.error-subtitle {
 }
 .sidebar .popular-posts .blog-post .blog-content h5 {
   margin-bottom: 0;
-  font-size: 12px;
+  font-size: 16px;
 }
 .sidebar .popular-posts .blog-post .blog-content h5 a {
   color: #222222;
@@ -1205,7 +1206,7 @@ h5.error-subtitle {
 .page-title .page-location .location h6 {
   color: #fff;
   display: inline-block;
-  font-size: 11px;
+  font-size: 15px;
   margin: 0;
 }
 .page-title .page-location .location h6 a {
@@ -1254,7 +1255,7 @@ h5.error-subtitle {
   margin-bottom: 15px;
 }
 .section-header h3 {
-  font-size: 18px;
+  font-size: 22px;
   margin-top: 0;
   margin-bottom: 22px;
 }
@@ -1275,8 +1276,9 @@ h4,
 h5,
 h6 {
   text-transform: uppercase;
-  font-weight: 700;
+  /* font-weight: 700; */
   color: #336699;
+  letter-spacing: 1px;
 }
 h1 small,
 h2 small,
@@ -1285,44 +1287,45 @@ h4 small,
 h5 small,
 h6 small {
   color: #888888;
-  font-weight: 300;
+  /* font-weight: 300; */
   display: block;
+  letter-spacing: 1px;
 }
 h1 {
-  font-size: 32px;
+  font-size: 36px;
 }
 h1 small {
-  font-size: 16px;
-}
-h2 {
-  font-size: 28px;
-}
-h2 small {
-  font-size: 15px;
-}
-h3 {
-  font-size: 24px;
-}
-h3 small {
-  font-size: 14px;
-}
-h4 {
   font-size: 20px;
 }
-h4 small {
-  font-size: 14px;
+h2 {
+  font-size: 32px;
 }
-h5 {
+h2 small {
+  font-size: 20px;
+}
+h3 {
+  font-size: 28px;
+}
+h3 small {
+  font-size: 28px;
+}
+h4 {
+  font-size: 24px;
+}
+h4 small {
   font-size: 18px;
 }
+h5 {
+  font-size: 22px;
+}
 h5 small {
-  font-size: 12px;
+  font-size: 14px;
 }
 h6 {
-  font-size: 16px;
+  font-size: 20px;
 }
 h6 small {
-  font-size: 11px;
+  font-size: 25px;
 }
 blockquote {
   font-style: italic;
@@ -1900,7 +1903,7 @@ textarea {
 }
 .testimonials .testimonial-post .author h5 {
   display: inline-block;
-  font-size: 12px;
+  font-size: 16px;
   margin-top: 30px;
 }
 .testimonials .testimonial-post .author h5:after {
@@ -2025,7 +2028,7 @@ textarea {
   margin: 0;
   margin-left: 25px;
   display: block;
-  font-size: 13px;
+  font-size: 17px;
 }
 .feature-post .feature-content {
   padding: 20px;
@@ -2293,7 +2296,9 @@ textarea {
 .causes .cause-post .cause-content h4 {
   font-size: 18px;
   color:#FF9933;
-  font-family: 'Montserrat', sans-serif
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  letter-spacing: normal;
 }
 .last-causes .cause-post .cause-content h4 a,
 .causes .cause-post .cause-content h4 a {
@@ -2477,7 +2482,7 @@ textarea {
   color: #222222;
 }
 .event-post .event-content {
-  padding: 25px 25px 25px 0;
+  padding: 15px 25px 15px 0;
 }
 .event-post .event-content p {
  color: #336699;
@@ -4800,7 +4805,7 @@ ul.bxslider {
   margin: 0;
   margin-left: 25px;
   display: block;
-  font-size: 13px;
+  font-size: 17px;
 }
 .feature-post2 .feature-content {
   padding: 20px;
@@ -4857,7 +4862,7 @@ ul.bxslider {
   margin: 0;
   margin-left: 25px;
   display: block;
-  font-size: 13px;
+  font-size: 17px;
 }
 .feature-post3 .feature-content {
   padding: 20px;

@@ -63,7 +63,9 @@
 @section('page-script')
     {{ Html::script('js/jquery-ui.js') }}
     <!-- Google Map -->
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZURPfDPZwCBt1CEm_9VbIPUDl_Ib7CtE&callback=initMap">
+    </script>
     {{ Html::script('js/jquery.gmap3.min.js') }}  
 
 
@@ -186,7 +188,7 @@
                               $("#result").hide().html(output).slideDown();
                             },
                              error: function(jqXHR, textStatus, errorThrow) {      
-                                  console.log(textStatus, errorThrown);                  
+                               //   console.log(textStatus);                  
                                   output = '<div class="alert alert-danger">' + jqXHR.mensaje + '</div>';
                                   $("#result").hide().html(output).slideDown();
                                 }
